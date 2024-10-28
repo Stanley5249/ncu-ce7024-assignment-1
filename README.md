@@ -98,6 +98,7 @@ The Token Classification head has been custom-trained for this project.
 8. **Save the Model**: Save the trained model to `resources/ner_model.pt`.
 
 By following these steps, you can train the NER model on the WNUT16 dataset and evaluate its performance.
+
 ## Results
 
 The micro precision, recall, and F1-score for each epoch are recorded in [train.log](resources/train.log). The inference results can be found in [result.txt](result.txt).
@@ -107,7 +108,6 @@ Results from the last epoch:
 | Precision | Recall | F1-Score |
 | --------- | ------ | -------- |
 | 0.9407    | 0.9407 | 0.9407   |
-
 
 ## Reference
 

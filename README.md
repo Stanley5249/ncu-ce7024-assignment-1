@@ -1,4 +1,4 @@
-# Natural Language Processing - Assignment 1
+# Named Entity Recognition
 
 ## Table of Contents
 

@@ -1,4 +1,4 @@
-# NLP-Assignment-1-NER
+# Natural Language Processing - Assignment 1
 
 ## Table of Contents
 
